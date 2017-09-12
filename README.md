@@ -9,13 +9,13 @@
 * [Cplusplus](http://www.cplusplus.com/)
 
 ## Linux
-###News
+### News
 * [It's FOSS](https://itsfoss.com/)
 * [Tecmint](https://www.tecmint.com)
 * [Unixmen](https://www.unixmen.com/)
 
-###Kernel
+### Kernel
 * [Kernelnewbies](https://kernelnewbies.org/)
 
-###Command Line
+### Command Line
 * [linuxjourney](https://linuxjourney.com/lesson/the-shell/)
