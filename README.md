@@ -7,7 +7,8 @@
 
 ### C++
 * [Cplusplus](http://www.cplusplus.com/)
-
+###Python
+* [Pythoncentral](http://pythoncentral.io)
 ## Linux
 ### News
 * [It's FOSS](https://itsfoss.com/)
