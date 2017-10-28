@@ -7,7 +7,7 @@
 
 ### C++
 * [Cplusplus](http://www.cplusplus.com/)
-###Python
+### Python
 * [Pythoncentral](http://pythoncentral.io)
 ## Linux
 ### News
