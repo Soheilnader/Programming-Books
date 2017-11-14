@@ -9,7 +9,7 @@
 * [Cplusplus](http://www.cplusplus.com/)
 ### Python
 * [Pythoncentral](http://pythoncentral.io)
-* [http://newcoder.io](http://newcoder.io)
+* [Newcoder](http://newcoder.io)
 ## Linux
 ### News
 * [It's FOSS](https://itsfoss.com/)
