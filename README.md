@@ -3,7 +3,7 @@
 * [Tutorialspoint](https://tutorialspoint.com)
 * [Codefights](https://codefights.com)
 * [Rosettacode](http://rosettacode.org/wiki/Category:Programming_Languages)
-* [studytonight](https://www.studytonight.com/)
+* [Studytonight](https://www.studytonight.com/)
 
 ### C++
 * [Cplusplus](http://www.cplusplus.com/)
