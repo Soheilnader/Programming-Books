@@ -8,7 +8,7 @@
 * [Rosettacode](http://rosettacode.org/wiki/Category:Programming_Languages)
 * [Studytonight](https://www.studytonight.com/)
 * [bogotobogo](https://bogotobogo.com)
-
+* [hackr](https://hackr.io/)
 
 ### C++
 * [Cplusplus](http://www.cplusplus.com/)
