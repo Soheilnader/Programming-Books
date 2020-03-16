@@ -15,6 +15,7 @@
 ### Python
 * [Pythoncentral](http://pythoncentral.io)
 * [Newcoder](http://newcoder.io)
+* [InventWithPython](https://inventwithpython.com/)
 ## Linux
 ### News
 * [It's FOSS](https://itsfoss.com/)
