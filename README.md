@@ -21,6 +21,8 @@
 * [It's FOSS](https://itsfoss.com/)
 * [Tecmint](https://www.tecmint.com)
 * [Unixmen](https://www.unixmen.com/)
+* [Linuxconfig](https://linuxconfig.org/)
+
 
 ### Kernel
 * [Kernelnewbies](https://kernelnewbies.org/)
