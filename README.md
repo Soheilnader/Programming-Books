@@ -16,6 +16,8 @@
 * [Pythoncentral](http://pythoncentral.io)
 * [Newcoder](http://newcoder.io)
 * [InventWithPython](https://inventwithpython.com/)
+* [PythonCourse](https://www.python-course.eu/)
+
 ## Linux
 ### News
 * [It's FOSS](https://itsfoss.com/)
