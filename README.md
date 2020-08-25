@@ -17,6 +17,7 @@
 * [Newcoder](http://newcoder.io)
 * [InventWithPython](https://inventwithpython.com/)
 * [PythonCourse](https://www.python-course.eu/)
+* [Github](https://github.com/dabeaz-course/practical-python/blob/master/Notes/Contents.md)
 
 ## Linux
 ### News
