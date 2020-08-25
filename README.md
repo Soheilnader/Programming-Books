@@ -31,3 +31,10 @@
 
 ### Command Line
 * [linuxjourney](https://linuxjourney.com/lesson/the-shell/)
+
+## AI
+### ML
+* [Google AI](https://ai.google/education/)
+* [Udacity](https://www.udacity.com/course/intro-to-artificial-intelligence--cs271)
+* [Coursera](https://www.coursera.org/learn/machine-learning?action=enroll)
+* [Github](https://github.com/ZuzooVn/machine-learning-for-software-engineers)
