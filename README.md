@@ -41,16 +41,7 @@
 * [Coursera](https://www.coursera.org/learn/machine-learning?action=enroll)
 * [Github](https://github.com/ZuzooVn/machine-learning-for-software-engineers)
 
-## Electronics
-### Basics
-* [Electronicshub](https://www.electronicshub.org/)
-* [Electrical4u](https://www.electrical4u.com/)
-* [Electrical-engineering-portal](https://electrical-engineering-portal.com/)
-* [Instructables](https://www.instructables.com/)
-* [Allaboutcircuits](https://www.allaboutcircuits.com/)
-* [Electronics-tutorials](https://www.electronics-tutorials.ws/)
-* [Circuitstoday](https://www.circuitstoday.com/)
-* [Mahdimz](https://www.mahdimz.ir/)
+
 
 
 
